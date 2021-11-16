@@ -1,0 +1,10 @@
+{
+    "products":[
+        {"id":10,"pname":"Samsung","price":"90,000/-","image":"./Images/samsung.jpg"},
+        {"id":20,"pname":"OnePlus","price":"60,000/-","image":"./Images/oneplus.jpg"},
+        {"id":30,"pname":"Apple","price":"1,00,000/-","image":"./Images/Apple.jpg"},
+        {"id":40,"pname":"Poco","price":"30,000/-","image":"./Images/Poco.jpg"},
+        {"id":50,"pname":"Asus","price":"45,000/-","image":"./Images/Asus.jpg"},
+        {"id":60,"pname":"Redmi","price":"35,000/-","image":"./Images/redmi.jpg"}
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "Registration": [
+    {
+      "id": 1,
+      "name": "Abhay",
+      "email": "abhay@gmail.com",
+      "mobile": "9388374201",
+      "course": "html"
+    },
+    {
+      "id": 2,
+      "name": "Akshay",
+      "email": "akshay@gmail.com",
+      "mobile": "9388374202",
+      "course": "css"
+    },
+    {
+      "id": 3,
+      "name": "Ashish",
+      "email": "ashu@gmail.com",
+      "mobile": "9388374203",
+      "course": "javascript"
+    },
+    {
+      "id": 4,
+      "name": "Bhuvan",
+      "email": "bhuvi@gmail.com",
+      "mobile": "93883742504",
+      "course": "react"
+    },
+    {
+      "id": 5,
+      "name": "Carry",
+      "email": "ajey@gmail.com",
+      "mobile": "93883742505",
+      "course": "node"
+    }
+  ]
+}
